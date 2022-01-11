@@ -3,7 +3,7 @@
 Adam Berdi RA
 203040180
 https://github.com/adamberdi/prakweb2021_oophp_203040180
-Pertemuan 2 - 12 Januari 2022
+Pertemuan 2 - 11 Januari 2022
 Mempelajari Object type pada PHP
 */
 ?>
