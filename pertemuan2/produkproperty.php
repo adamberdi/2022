@@ -9,7 +9,7 @@ Mempelajari Property & Method pada PHP
 ?>
 <?php
 
-<?php
+
 
 class Produk
 {
